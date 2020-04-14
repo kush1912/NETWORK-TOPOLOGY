@@ -6,30 +6,31 @@ NETWORK TOPOLOGY is a C++ (CODEBLOCKS) based project. It finds out the cost requ
 <br>
 <br>
 ### Ring -1
-![image](https://github.com/kush1912/NETWORK-TOPOLOGY/blob/master/NETWORK%20TOPOLOGY/screenshots/ring1.png)
+![image](https://github.com/kush1912/NETWORK-TOPOLOGY/blob/master/NETWORK%20TOPOLOGY/screenshots/ring%201.png)
 <br>
 <br>
 ### Tree -1
-![image](https://github.com/kush1912/NETWORK-TOPOLOGY/blob/master/NETWORK%20TOPOLOGY/screenshots/tree1.png)
+![image](https://github.com/kush1912/NETWORK-TOPOLOGY/blob/master/NETWORK%20TOPOLOGY/screenshots/tree%201.png)
 <br>
 <br>
 ### Star -1 
-![image](https://github.com/kush1912/NETWORK-TOPOLOGY/blob/master/NETWORK%20TOPOLOGY/screenshots/star1.png)
+![image](https://github.com/kush1912/NETWORK-TOPOLOGY/blob/master/NETWORK%20TOPOLOGY/screenshots/star%201.png)
 
 <br>
 <br>
 <br>
+
 ## Graph-2
-![image](https://github.com/kush1912/NETWORK-TOPOLOGY/blob/master/NETWORK%20TOPOLOGY/screenshots/graph 2.png)
+![image](https://github.com/kush1912/NETWORK-TOPOLOGY/blob/master/NETWORK%20TOPOLOGY/screenshots/graph%202.png)
 <br>
 <br>
 ### Ring -2
-![image](https://github.com/kush1912/NETWORK-TOPOLOGY/blob/master/NETWORK%20TOPOLOGY/screenshots/ring 1.png)
+![image](https://github.com/kush1912/NETWORK-TOPOLOGY/blob/master/NETWORK%20TOPOLOGY/screenshots/ring%202.png)
 <br>
 <br>
 ### Tree -2
-![image](https://github.com/kush1912/NETWORK-TOPOLOGY/blob/master/NETWORK%20TOPOLOGY/screenshots/tree 1.png)
+![image](https://github.com/kush1912/NETWORK-TOPOLOGY/blob/master/NETWORK%20TOPOLOGY/screenshots/tree%202.png)
 <br>
 <br>
 ### Star -2 
-![image](https://github.com/kush1912/NETWORK-TOPOLOGY/blob/master/NETWORK%20TOPOLOGY/screenshots/star 2
+![image](https://github.com/kush1912/NETWORK-TOPOLOGY/blob/master/NETWORK%20TOPOLOGY/screenshots/star2.png)
