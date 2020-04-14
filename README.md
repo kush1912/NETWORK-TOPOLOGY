@@ -6,15 +6,15 @@ NETWORK TOPOLOGY is a C++ (CODEBLOCKS) based project. It finds out the cost requ
 <br>
 <br>
 ### Ring -1
-![image](https://github.com/kush1912/NETWORK-TOPOLOGY/blob/master/NETWORK%20TOPOLOGY/screenshots/ring 1.png)
+![image](https://github.com/kush1912/NETWORK-TOPOLOGY/blob/master/NETWORK%20TOPOLOGY/screenshots/ring1.png)
 <br>
 <br>
 ### Tree -1
-![image](https://github.com/kush1912/NETWORK-TOPOLOGY/blob/master/NETWORK%20TOPOLOGY/screenshots/tree 1.png)
+![image](https://github.com/kush1912/NETWORK-TOPOLOGY/blob/master/NETWORK%20TOPOLOGY/screenshots/tree1.png)
 <br>
 <br>
 ### Star -1 
-![image](https://github.com/kush1912/NETWORK-TOPOLOGY/blob/master/NETWORK%20TOPOLOGY/screenshots/star 1.png)
+![image](https://github.com/kush1912/NETWORK-TOPOLOGY/blob/master/NETWORK%20TOPOLOGY/screenshots/star1.png)
 
 <br>
 <br>
